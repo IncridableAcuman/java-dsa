@@ -19,9 +19,9 @@ public class MyArrayExample {
 
 
 
-        Massivdagi unique elementlar sonini toping.
-        Eng kam uchraydigan elementni toping.
-        Bir xil elementlar ketma-ket necha marta kelganini toping.
+
+
+
         Massivda 0 soni necha marta qatnashganini toping.
         Berilgan elementning frequency sini toping.
         4. Two Pointers Pattern
