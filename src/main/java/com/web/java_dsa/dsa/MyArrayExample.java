@@ -22,10 +22,10 @@ public class MyArrayExample {
 
 
 
-        Massivda 0 soni necha marta qatnashganini toping.
-        Berilgan elementning frequency sini toping.
+
+
         4. Two Pointers Pattern
-        Tartiblangan massivda berilgan yig‘indini hosil qiluvchi juftlikni toping.
+
         Massivni joyida (in-place) teskari qiling.
         Tartiblangan massivdan duplicate elementlarni olib tashlang.
         Palindrom massiv ekanligini tekshiring.
