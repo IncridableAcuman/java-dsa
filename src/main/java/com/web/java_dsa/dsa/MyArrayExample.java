@@ -26,8 +26,8 @@ public class MyArrayExample {
 
         4. Two Pointers Pattern
 
-        Massivni joyida (in-place) teskari qiling.
-        Tartiblangan massivdan duplicate elementlarni olib tashlang.
+
+
         Palindrom massiv ekanligini tekshiring.
         Ikki tartiblangan massivni birlashtiring.
         Nol elementlarni oxiriga suring.
