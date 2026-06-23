@@ -28,7 +28,7 @@ public class MyArrayExample {
 
 
 
-        Palindrom massiv ekanligini tekshiring.
+
         Ikki tartiblangan massivni birlashtiring.
         Nol elementlarni oxiriga suring.
         Juft va toq sonlarni alohida joylashtiring.
