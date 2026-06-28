@@ -29,9 +29,8 @@ public class MyArrayExample {
 
 
 
-        Ikki tartiblangan massivni birlashtiring.
-        Nol elementlarni oxiriga suring.
-        Juft va toq sonlarni alohida joylashtiring.
+
+
         Eng yaqin yig‘indili juftlikni toping.
         Berilgan qiymatdan kichik va katta elementlarni ajrating.
         Squared sorted array hosil qiling.
