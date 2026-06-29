@@ -13,6 +13,7 @@ public class MassivniMusbatVaManfiySonlarSoni {
         }
         int musbatSonlarSoni = 0;
         int manfiySonlarSoni = 0;
+        String string ="1010";
         for (int i=0;i<n;i++){
             if (arr[i] >= 0){
                 musbatSonlarSoni++;
