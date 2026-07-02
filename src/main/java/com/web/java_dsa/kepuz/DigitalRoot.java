@@ -1,27 +1,22 @@
 package com.web.java_dsa.kepuz;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class DigitalRoot {
-    public static int sumDigit(int n){
-        int sum = 0;
-        while (n!=0){
-            int r = n%10;
-            sum+=r;
-            n/=10;
+    public static BigInteger digitalRoot(BigInteger n){
+        if (n.equals(BigInteger.ZERO)){
+            return BigInteger.ZERO;
         }
-        return sum;
+        BigInteger integer = n.mod(BigInteger.valueOf(9));
+
+        return integer.equals(BigInteger.ZERO) ? BigInteger.valueOf(9) : integer;
     }
-    public static int digitalRoot(int n){
-     if (n<10){
-         return n;
-     }
-     return digitalRoot(sumDigit(n));
-    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        int res = digitalRoot(n);
+        BigInteger n = new BigInteger(scanner.next());
+        BigInteger res = digitalRoot(n);
         System.out.println(res);
     }
 }
