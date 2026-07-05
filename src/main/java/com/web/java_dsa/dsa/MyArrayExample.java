@@ -35,7 +35,8 @@ public class MyArrayExample {
 
 
 
-        Eng yaqin yig‘indili juftlikni toping.
+
+
         Berilgan qiymatdan kichik va katta elementlarni ajrating.
         Squared sorted array hosil qiling.
         5. Sliding Window
