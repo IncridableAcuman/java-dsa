@@ -28,20 +28,14 @@ public class MyArrayExample {
 
 
 
-        4. Two Pointers Pattern
 
 
 
 
 
 
-
-
-        Berilgan qiymatdan kichik va katta elementlarni ajrating.
-        Squared sorted array hosil qiling.
         5. Sliding Window
-        Uzunligi k bo‘lgan oynadagi maksimal yig‘indini toping.
-        Uzunligi k bo‘lgan oynadagi minimal yig‘indini toping.
+
         Har bir oynadagi maksimal elementni toping.
         Har bir oynadagi minimal elementni toping.
         Yig‘indisi S dan katta bo‘lgan eng kichik subarrayni toping.
