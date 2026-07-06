@@ -36,9 +36,8 @@ public class MyArrayExample {
 
         5. Sliding Window
 
-        Har bir oynadagi maksimal elementni toping.
-        Har bir oynadagi minimal elementni toping.
-        Yig‘indisi S dan katta bo‘lgan eng kichik subarrayni toping.
+
+
         Eng uzun bir xil elementlardan tashkil topgan subarrayni toping.
         K ta nolni bitta qilish mumkin bo‘lsa eng uzun 1 lar ketma-ketligini toping.
         Takrorlanmaydigan elementlardan tashkil topgan eng uzun subarrayni toping.
@@ -71,7 +70,6 @@ public class MyArrayExample {
         Spiral traversal qiling.
         Har bir satr yig‘indisini toping.
         Har bir ustun yig‘indisini toping.
-        Matrix ichidagi eng katta elementni toping.
         9. Interview Level
         Two Sum
         Best Time to Buy and Sell Stock

@@ -1,30 +1,55 @@
 package com.web.java_dsa.kepuz;
 
+
 import java.util.Scanner;
 
 public class FirstOneSecondTwoThreeElementIndex {
+    public static int first(int[] arr){
+        int count=0;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==1){
+                count++;
+            }
+            if(count==1){
+                return i+1;
+            }
+        }
+        return -1;
+    }
+    public static int second(int[] arr){
+        int count=0;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==2){
+                count++;
+            }
+            if(count==2){
+                return i+1;
+            }
+        }
+        return -1;
+    }
+    public static int third(int[] arr){
+        int count=0;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==3){
+                count++;
+            }
+            if(count==3){
+                return i+1;
+            }
+        }
+        return -1;
+    }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
-        int x=0,y=0,z=0;
-        int a=-1,b=-1,c=-1;
-        for (int i=1;i<=n;i++){
-            int target = scanner.nextInt();
-            if (target==1){
-                x++;
-                if (x==1) a=i;
-            } else if (target==2) {
-                y++;
-                if (y==2) b=i;
-            } else if (target==3) {
-                z++;
-                if (z==3) c=i;
-            }
+        int[] arr = new int[n];
+        for(int i=0;i<n;i++){
+            arr[i]=scanner.nextInt();
         }
-        if (a != -1 && b != -1 && c != -1) {
-            System.out.println(a + " " + b + " " + c);
-        } else {
-            System.out.println(-1);
-        }
+        int a = first(arr);
+        int b = second(arr);
+        int c = third(arr);
+        System.out.println(a+" "+b+" "+c);
     }
 }
