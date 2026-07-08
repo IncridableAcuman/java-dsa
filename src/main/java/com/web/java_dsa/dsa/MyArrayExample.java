@@ -41,8 +41,8 @@ public class MyArrayExample {
         Eng uzun bir xil elementlardan tashkil topgan subarrayni toping.
         K ta nolni bitta qilish mumkin bo‘lsa eng uzun 1 lar ketma-ketligini toping.
         Takrorlanmaydigan elementlardan tashkil topgan eng uzun subarrayni toping.
-        Berilgan summaga teng subarray mavjudligini aniqlang.
-        Uzunligi k bo‘lgan subarraylarning o‘rtacha qiymatini toping.
+
+
         6. Prefix Sum
         Prefix sum massivini yarating.
         L dan R gacha bo‘lgan elementlar yig‘indisini O(1) da toping.
@@ -69,7 +69,7 @@ public class MyArrayExample {
         Matritsani 90° aylantiring.
         Spiral traversal qiling.
         Har bir satr yig‘indisini toping.
-        Har bir ustun yig‘indisini toping.
+
         9. Interview Level
         Two Sum
         Best Time to Buy and Sell Stock
