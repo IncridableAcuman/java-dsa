@@ -38,8 +38,6 @@ public class MyArrayExample {
 
 
 
-        Eng uzun bir xil elementlardan tashkil topgan subarrayni toping.
-        K ta nolni bitta qilish mumkin bo‘lsa eng uzun 1 lar ketma-ketligini toping.
         Takrorlanmaydigan elementlardan tashkil topgan eng uzun subarrayni toping.
 
 

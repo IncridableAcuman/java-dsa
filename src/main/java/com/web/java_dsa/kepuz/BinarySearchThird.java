@@ -1,16 +1,26 @@
 package com.web.java_dsa.kepuz;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class BinarySearchThird {
-    public static int binarySearchThird(int[] arr,int x){
-        int count=0;
-        for (int j : arr) {
-            if (j == x) {
-                count++;
-            }
+    public static int lowerBound(int[] arr, int key) {
+        int low = 0, high = arr.length;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (arr[mid] >= key) high = mid;
+            else low = mid + 1;
         }
-        return count;
+        return low;
+    }
+    public static int upperBound(int[] arr, int key) {
+        int low = 0, high = arr.length;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (arr[mid] > key) high = mid;
+            else low = mid + 1;
+        }
+        return low;
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -20,9 +30,10 @@ public class BinarySearchThird {
             arr[i]=scanner.nextInt();
         }
         int m = scanner.nextInt();
-        for (int i=1;i<=m;i++){
+        for (int i=0;i<m;i++){
             int x = scanner.nextInt();
-            System.out.println(binarySearchThird(arr,x));
+            int count = upperBound(arr,x)-lowerBound(arr,x);
+            System.out.println(count);
         }
     }
 }
