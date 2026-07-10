@@ -3,6 +3,7 @@ package com.web.java_dsa.oop;
 public class JavaThisKeyword {
     int a;
     int b;
+    int balance;
     /*public JavaThisKeyword(int a,int b){
         this.a=a; // 10
         this.b = b; // 20,
@@ -17,6 +18,15 @@ public class JavaThisKeyword {
     }
     public void display(){
         System.out.println(a+" "+b);
+    }
+   /* public JavaThisKeyword(){
+        this(0);
+    }
+    public JavaThisKeyword(int balance){
+        this.balance=balance;
+    }*/
+    public JavaThisKeyword javaThisKeyword(){
+        return this; // joriy obyektni waytarish
     }
 
     public static void main(String[] args) {
