@@ -1,14 +1,9 @@
 package com.web.java_dsa.dsa;
 
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
 
 public class MyArrayExample {
     public static void main(String[] args) {
-        Set<Integer> set = new HashSet<>();/*
-        * /
 
 
 
@@ -19,7 +14,7 @@ public class MyArrayExample {
 
 
 
-
+/*
 
 
 
@@ -38,7 +33,7 @@ public class MyArrayExample {
 
 
 
-        Takrorlanmaydigan elementlardan tashkil topgan eng uzun subarrayni toping.
+
 
 
         6. Prefix Sum
