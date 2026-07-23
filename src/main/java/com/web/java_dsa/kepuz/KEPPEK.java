@@ -7,6 +7,5 @@ public class KEPPEK {
         // https://kep.uz/problems/2022
         Scanner scanner = new Scanner(System.in);
         String str = scanner.next();
-        str.toLowerCase().e
     }
 }
