@@ -13,7 +13,10 @@ public class TogriBurchakliUchburchak {
         int c = (int) Math.sqrt(Math.pow(a,2)+Math.pow(b,2)); // gipotenuzasini topish
         // katetlarningg kvadratlari yig'indisi gipotenuzaning kvadratlari yigindisiga teng
         int S = (a*b)/2; // to'g'ri burchakli uchburchak ning yuzini topish formulasi
+
+        int P = a + b + c;
         System.out.println("Gipotenuza: "+c);
         System.out.println("Yuza: "+S);
+        System.out.println("Primetri: " + P);
     }
 }
