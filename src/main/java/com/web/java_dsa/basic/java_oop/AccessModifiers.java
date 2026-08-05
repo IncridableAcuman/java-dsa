@@ -1,7 +1,7 @@
 package com.web.java_dsa.basic.java_oop;
 
 public class AccessModifiers {
-    int a = 1;
+    int a = 1; // default
     public int b = 2;
     private int c = 3;
     protected int  d = 4;

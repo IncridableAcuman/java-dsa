@@ -1,7 +1,7 @@
 package com.web.java_dsa.basic.java_oop;
 
 public class ClassesObjects { // class
-    int x = 5; // attribute
+    int x = 5; // attributes
     double y = 3.4;
     float z = 0.4f;
     char t = 'a';
