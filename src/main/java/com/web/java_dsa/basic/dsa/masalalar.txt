@@ -1,0 +1,382 @@
+1. Java Collections
+
+
+
+🔴 High
+Collection ichida eng ko'p takrorlangan elementni topish.
+Collection larni compare qilish.
+Generic Collection utility yozish.
+Custom Collection yaratish.
+Collection performance benchmark.
+2. Java List
+🟢 Low
+List ga 10 ta son qo'shing.
+Eng katta elementni toping.
+Eng kichik elementni toping.
+Oxirgi elementni chiqaring.
+List teskari chiqarilsin.
+🟡 Medium
+Duplicate elementlarni olib tashlang.
+List ni rotate qiling.
+List ni ikkiga bo'ling.
+List ichidan faqat musbat sonlarni ajrating.
+List ichidagi o'rtacha qiymatni toping.
+🔴 High
+Ikki List intersection.
+Union.
+Difference.
+Sliding Window Maximum.
+Top K Largest Elements.
+3. ArrayList
+🟢 Low
+Student nomlarini ArrayList ga qo'shing.
+Ism qidiring.
+Index bo'yicha elementni o'zgartiring.
+Oxiridan element o'chiring.
+ArrayList ni tozalang.
+🟡 Medium
+Faqat unique elementlarni saqlang.
+Elementlarni random shuffle qiling.
+Frequency hisoblang.
+ArrayList clone qiling.
+Index mapping yarating.
+🔴 High
+Dynamic inventory.
+Playlist manager.
+Undo system.
+Browser history.
+Mini social feed.
+4. LinkedList
+🟢 Low
+Head ga element qo'shing.
+Tail ga element qo'shing.
+Birinchi elementni o'chiring.
+Oxirgi elementni o'chiring.
+Traverse qiling.
+🟡 Medium
+LinkedList ni reverse qiling.
+Middle elementni toping.
+Cycle borligini aniqlang.
+Nth element from end.
+Merge ikkita sorted list.
+🔴 High
+LRU Cache.
+Browser navigation.
+Music queue.
+Josephus Problem.
+Flatten multilevel linked list.
+5. List Sorting
+🟢 Low
+Integer List sort.
+String sort.
+Descending sort.
+Length bo'yicha sort.
+Alphabetical sort.
+🟡 Medium
+Student GPA bo'yicha sort.
+Age bo'yicha sort.
+Multiple field sort.
+Null-safe sorting.
+Stable sorting.
+🔴 High
+Custom Comparator.
+Merge Sort implement.
+Quick Sort implement.
+External Sort.
+K Sorted Lists Merge.
+6. Java Set
+🟢 Low
+Duplicate elementlarni olib tashlash.
+Set size.
+Contains().
+Remove().
+Iterate.
+🟡 Medium
+Union.
+Intersection.
+Difference.
+Symmetric Difference.
+Frequency using Set.
+🔴 High
+Tag system.
+Recommendation system.
+Permission system.
+Graph adjacency.
+Unique visitor tracker.
+7. HashSet
+🟢 Low
+Duplicate so'zlarni olib tashlash.
+Email uniqueness.
+Username uniqueness.
+Random element qo'shish.
+Contains.
+🟡 Medium
+Find missing numbers.
+Pair Sum.
+Longest Consecutive Sequence.
+Common elements.
+Remove duplicates from huge dataset.
+🔴 High
+Spell checker.
+URL deduplication.
+Search history.
+Recommendation tags.
+Fraud detection.
+8. TreeSet
+🟢 Low
+Natural sorting.
+First().
+Last().
+Higher().
+Lower().
+🟡 Medium
+Leaderboard.
+Student ranking.
+Auto-complete.
+Nearest number.
+Interval search.
+🔴 High
+Sliding window median.
+Order statistics.
+Dynamic ranking.
+Event scheduler.
+Stock prices.
+9. LinkedHashSet
+🟢 Low
+Insertion orderni saqlash.
+Duplicate removal.
+Iterate.
+Remove.
+Contains.
+🟡 Medium
+Recent search history.
+Browser tabs.
+Playlist.
+Recent files.
+Cache entries.
+🔴 High
+LRU simulation.
+Session tracking.
+Notification history.
+API request log.
+Recent products.
+10. Java Map
+🟢 Low
+Student -> Ball.
+Country -> Capital.
+Phonebook.
+ContainsKey().
+Remove().
+🟡 Medium
+Word frequency.
+Character frequency.
+Student GPA.
+Inventory.
+Employee salary.
+🔴 High
+Mini database.
+Cache.
+Voting system.
+Banking.
+URL Shortener.
+11. HashMap
+🟢 Low
+So'zlar sonini hisoblang.
+Character frequency.
+Student marks.
+Product price.
+
+
+    Count occurrence.
+
+🟡 Medium
+
+    Group anagrams.
+
+    Two Sum.
+
+    Subarray Sum.
+
+    Isomorphic Strings.
+
+    First Unique Character.
+
+🔴 High
+
+    LFU Cache.
+
+    Social Network.
+
+    Compiler Symbol Table.
+
+    Session Manager.
+
+    API Rate Limiter.
+
+12. TreeMap
+🟢 Low
+
+    Key bo'yicha sort.
+
+    FirstKey().
+
+    LastKey().
+
+    HigherKey().
+
+    LowerKey().
+
+🟡 Medium
+
+    Ranking system.
+
+    Gradebook.
+
+    Price catalog.
+
+    Time scheduler.
+
+    Event calendar.
+
+🔴 High
+
+    Stock exchange.
+
+    Order book.
+
+    Interval Tree simulation.
+
+    Dynamic leaderboard.
+
+    Time-series database.
+
+13. LinkedHashMap
+🟢 Low
+
+    Insertion orderni saqlash.
+
+    Cache yozish.
+
+    Recent products.
+
+    Browser history.
+
+    Playlist.
+
+🟡 Medium
+
+    LRU Cache.
+
+    Session manager.
+
+    API Cache.
+
+    Recent search.
+
+    Notification history.
+
+🔴 High
+
+    Web cache.
+
+    Memory manager.
+
+    DNS Cache.
+
+    Query cache.
+
+    Database cache.
+
+14. Iterator
+🟢 Low
+
+    Iterator orqali chiqarish.
+
+    Iterator remove().
+
+    hasNext().
+
+    next().
+
+    Empty iterator.
+
+🟡 Medium
+
+    Even elementlarni o'chirish.
+
+    Prime sonlarni chiqarish.
+
+    Filter iterator.
+
+    Custom iterator.
+
+    Nested iterator.
+
+🔴 High
+
+    Fail-fast behavior.
+
+    Infinite iterator.
+
+    BFS iterator.
+
+    DFS iterator.
+
+    Lazy iterator.
+
+15. Algorithms
+🟢 Low
+
+    Linear Search.
+
+    Binary Search.
+
+    Bubble Sort.
+
+    Selection Sort.
+
+    Insertion Sort.
+
+🟡 Medium
+
+    Merge Sort.
+
+    Quick Sort.
+
+    Sliding Window.
+
+    Two Pointer.
+
+    Prefix Sum.
+
+🔴 High
+
+    Dijkstra.
+
+    Bellman-Ford.
+
+    Floyd-Warshall.
+
+    Kruskal.
+
+    Prim.
+
+    Topological Sort.
+
+    KMP.
+
+    Rabin-Karp.
+
+    Trie.
+
+    Union Find.
+
+    Segment Tree.
+
+    Fenwick Tree.
+
+    Dynamic Programming.
+
+    Backtracking.
+
+    Greedy Algorithms.
