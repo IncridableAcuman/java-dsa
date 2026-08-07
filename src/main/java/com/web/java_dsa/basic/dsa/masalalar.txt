@@ -3,9 +3,6 @@
 
 
 🔴 High
-Collection ichida eng ko'p takrorlangan elementni topish.
-Collection larni compare qilish.
-Generic Collection utility yozish.
 Custom Collection yaratish.
 Collection performance benchmark.
 2. Java List
