@@ -1,4 +1,4 @@
-package com.web.java_dsa.basic.dsa.collections;
+package com.web.java_dsa.basic.dsa.collection;
 
 import java.util.*;
 /*

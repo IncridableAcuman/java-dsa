@@ -2,18 +2,7 @@
 
 
 
-🔴 High
-Custom Collection yaratish.
-Collection performance benchmark.
-2. Java List
-🟢 Low
-List ga 10 ta son qo'shing.
-Eng katta elementni toping.
-Eng kichik elementni toping.
-Oxirgi elementni chiqaring.
-List teskari chiqarilsin.
 🟡 Medium
-Duplicate elementlarni olib tashlang.
 List ni rotate qiling.
 List ni ikkiga bo'ling.
 List ichidan faqat musbat sonlarni ajrating.
@@ -24,6 +13,7 @@ Union.
 Difference.
 Sliding Window Maximum.
 Top K Largest Elements.
+
 3. ArrayList
 🟢 Low
 Student nomlarini ArrayList ga qo'shing.

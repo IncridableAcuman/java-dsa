@@ -1,8 +1,7 @@
-package com.web.java_dsa.basic.dsa.collections;
+package com.web.java_dsa.basic.dsa.collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Collections;
 import java.util.Scanner;
 
 public class CompareCollections {

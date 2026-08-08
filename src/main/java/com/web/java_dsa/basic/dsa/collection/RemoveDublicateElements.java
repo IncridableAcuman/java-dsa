@@ -1,12 +1,13 @@
-package com.web.java_dsa.basic.dsa.collections;
+package com.web.java_dsa.basic.dsa.collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.LinkedHashSet;
 import java.util.Scanner;
 
-public class PairElementsFromCollection {
+public class RemoveDublicateElements {
     public static void main(String[] args) {
-        // Collection ichidagi juft sonlarni ajratish.
+        // Collection ichidan duplicate elementlarni olib tashlash.
         Scanner scanner = new Scanner(System.in);
         System.out.print("n=");
         int n = scanner.nextInt();
@@ -16,10 +17,10 @@ public class PairElementsFromCollection {
             int element = scanner.nextInt();
             collection.add(element);
         }
-        for (int element : collection){
-            if (element %2 == 0){
-                System.out.print(element + " ");
-            }
+        Collection<Integer> setCollection = new LinkedHashSet<>(collection);
+        for (int element : setCollection){
+            System.out.print(element + " ");
         }
+
     }
 }
