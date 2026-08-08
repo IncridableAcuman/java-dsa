@@ -1,12 +1,4 @@
-1. Java Collections
 
-
-
-🟡 Medium
-List ni rotate qiling.
-List ni ikkiga bo'ling.
-List ichidan faqat musbat sonlarni ajrating.
-List ichidagi o'rtacha qiymatni toping.
 🔴 High
 Ikki List intersection.
 Union.
@@ -15,12 +7,6 @@ Sliding Window Maximum.
 Top K Largest Elements.
 
 3. ArrayList
-🟢 Low
-Student nomlarini ArrayList ga qo'shing.
-Ism qidiring.
-Index bo'yicha elementni o'zgartiring.
-Oxiridan element o'chiring.
-ArrayList ni tozalang.
 🟡 Medium
 Faqat unique elementlarni saqlang.
 Elementlarni random shuffle qiling.
