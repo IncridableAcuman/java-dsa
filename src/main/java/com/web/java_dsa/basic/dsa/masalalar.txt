@@ -1,24 +1,18 @@
 
 🔴 High
-Ikki List intersection.
-Union.
-Difference.
+
 Sliding Window Maximum.
 Top K Largest Elements.
 
 3. ArrayList
 🟡 Medium
-Faqat unique elementlarni saqlang.
-Elementlarni random shuffle qiling.
-Frequency hisoblang.
-ArrayList clone qiling.
-Index mapping yarating.
 🔴 High
 Dynamic inventory.
 Playlist manager.
 Undo system.
 Browser history.
 Mini social feed.
+
 4. LinkedList
 🟢 Low
 Head ga element qo'shing.
@@ -38,6 +32,7 @@ Browser navigation.
 Music queue.
 Josephus Problem.
 Flatten multilevel linked list.
+
 5. List Sorting
 🟢 Low
 Integer List sort.
@@ -57,13 +52,8 @@ Merge Sort implement.
 Quick Sort implement.
 External Sort.
 K Sorted Lists Merge.
+
 6. Java Set
-🟢 Low
-Duplicate elementlarni olib tashlash.
-Set size.
-Contains().
-Remove().
-Iterate.
 🟡 Medium
 Union.
 Intersection.
