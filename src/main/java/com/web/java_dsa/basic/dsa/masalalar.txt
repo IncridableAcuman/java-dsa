@@ -1,7 +1,6 @@
 
 🔴 High
 
-Sliding Window Maximum.
 Top K Largest Elements.
 
 3. ArrayList
@@ -35,11 +34,7 @@ Flatten multilevel linked list.
 
 5. List Sorting
 🟢 Low
-Integer List sort.
-String sort.
-Descending sort.
-Length bo'yicha sort.
-Alphabetical sort.
+
 🟡 Medium
 Student GPA bo'yicha sort.
 Age bo'yicha sort.
