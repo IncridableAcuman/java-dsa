@@ -271,16 +271,6 @@ Product price.
     Lazy iterator.
 
 15. Algorithms
-🟢 Low
-
-
-
-    Bubble Sort.
-
-    Selection Sort.
-
-    Insertion Sort.
-
 🟡 Medium
 
     Merge Sort.
