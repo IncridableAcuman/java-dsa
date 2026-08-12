@@ -1,11 +1,7 @@
-
-🔴 High
-
 Top K Largest Elements.
 
 3. ArrayList
-🟡 Medium
-🔴 High
+
 Dynamic inventory.
 Playlist manager.
 Undo system.
@@ -20,11 +16,7 @@ Birinchi elementni o'chiring.
 Oxirgi elementni o'chiring.
 Traverse qiling.
 🟡 Medium
-LinkedList ni reverse qiling.
-Middle elementni toping.
 Cycle borligini aniqlang.
-Nth element from end.
-Merge ikkita sorted list.
 🔴 High
 LRU Cache.
 Browser navigation.
@@ -33,8 +25,6 @@ Josephus Problem.
 Flatten multilevel linked list.
 
 5. List Sorting
-🟢 Low
-
 🟡 Medium
 Student GPA bo'yicha sort.
 Age bo'yicha sort.
@@ -63,11 +53,9 @@ Graph adjacency.
 Unique visitor tracker.
 7. HashSet
 🟢 Low
-Duplicate so'zlarni olib tashlash.
 Email uniqueness.
 Username uniqueness.
-Random element qo'shish.
-Contains.
+
 🟡 Medium
 Find missing numbers.
 Pair Sum.
@@ -285,9 +273,7 @@ Product price.
 15. Algorithms
 🟢 Low
 
-    Linear Search.
 
-    Binary Search.
 
     Bubble Sort.
 
