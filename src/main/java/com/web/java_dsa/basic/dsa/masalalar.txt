@@ -10,7 +10,6 @@ Mini social feed.
 
 4. LinkedList
 🟢 Low
-Head ga element qo'shing.
 Tail ga element qo'shing.
 Birinchi elementni o'chiring.
 Oxirgi elementni o'chiring.
@@ -26,7 +25,6 @@ Flatten multilevel linked list.
 
 5. List Sorting
 🟡 Medium
-Student GPA bo'yicha sort.
 Age bo'yicha sort.
 Multiple field sort.
 Null-safe sorting.
@@ -272,8 +270,6 @@ Product price.
 
 15. Algorithms
 🟡 Medium
-
-    Merge Sort.
 
     Quick Sort.
 
