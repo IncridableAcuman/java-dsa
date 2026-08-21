@@ -1,8 +1,3 @@
-Berilgan String faqat raqamlardan tashkil topganligini tekshiring.
-Berilgan String faqat ingliz harflaridan tashkil topganligini tekshiring.
-Berilgan String faqat kichik harflardan tashkil topganligini tekshiring.
-Berilgan String faqat katta harflardan tashkil topganligini tekshiring.
-Berilgan String aynan 8 ta belgidan iboratligini tekshiring.
 Telefon raqami +998901234567 formatiga mos kelishini tekshiring.
 Berilgan String email manzil formatiga mos kelishini tekshiring.
 Username 5–15 belgidan iborat bo‘lib, faqat harf, raqam va _ belgilaridan tashkil topganligini tekshiring.
