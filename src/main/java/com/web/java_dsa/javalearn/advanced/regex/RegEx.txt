@@ -1,12 +1,4 @@
-Telefon raqami +998901234567 formatiga mos kelishini tekshiring.
-Berilgan String email manzil formatiga mos kelishini tekshiring.
-Username 5–15 belgidan iborat bo‘lib, faqat harf, raqam va _ belgilaridan tashkil topganligini tekshiring.
-Berilgan password kamida 8 ta belgidan iborat bo‘lib, kamida bitta katta harf, kichik harf, raqam va maxsus belgiga ega ekanligini tekshiring.
-Berilgan sana DD/MM/YYYY formatiga mos kelishini tekshiring.
-Berilgan vaqt HH:mm formatiga mos kelishini tekshiring.
 Berilgan String IPv4 address formatiga mos kelishini tekshiring.
-Berilgan String http yoki https bilan boshlanuvchi URL ekanligini tekshiring.
-Berilgan fayl nomi .jpg, .jpeg, .png yoki .gif kengaytmalaridan biri bilan tugashini tekshiring.
 Berilgan matn ichidan barcha raqamlar ketma-ketliklarini toping.
 Berilgan matn ichidan barcha email manzillarni toping.
 Berilgan matn ichidan barcha so‘zlarni toping va ularning sonini hisoblang.

@@ -11,5 +11,12 @@ public class OnlyNumber {
         String numberDistance = "\\d+";
         boolean regex = str.matches(numberDistance);
         System.out.println(regex);
+
+        //
+        System.out.println(str.matches("[0-9]+")); // bir ta raqam
+        System.out.println(str.matches("[0-9]+")); // bir yoki undan ko'p raqam
+        System.out.println(str.matches("[0-9]*")); // 0 yoki undan ko'p raqam
+        System.out.println(str.matches("[0-9]{5}")); // faqat 5 ta raqam
+        System.out.println(str.matches("[0-9]{8,255}")); // oraliqni belgilaydi
     }
 }
