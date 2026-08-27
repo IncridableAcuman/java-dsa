@@ -7,8 +7,8 @@ public class CheckingToCapsLook {
         // https://kep.uz/problems/27
         Scanner scanner = new Scanner(System.in);
         String str = scanner.next();
-        boolean upper = str.matches("[A-Z]*");
-        boolean startLetter = str.matches("^[a-z][A-Z]*");
+        boolean upper = str.matches("[A-Z]+");
+        boolean startLetter = str.matches("[a-z][A-Z]*");
         System.out.println((upper || startLetter)  ? "True" : "False");
     }
 }
