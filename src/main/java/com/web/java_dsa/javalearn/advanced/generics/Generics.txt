@@ -1,0 +1,32 @@
+🟡 2-BOSQICH — Generics + Collections Advanced
+21–40
+Generics
+
+21. Istalgan turdagi ikkita qiymatni qabul qilib, ularni ekranga chiqaruvchi generic metod yozing.
+
+22. Generic Pair<K,V> klass yarating.
+
+23. Generic metod orqali List<T> ichidagi birinchi elementni qaytaring.
+
+24. Generic metod orqali List<T> ichidagi oxirgi elementni qaytaring.
+
+25. T extends Number qabul qiluvchi metod yozing va barcha sonlarning yig‘indisini hisoblang.
+
+26. List<? extends Number> qabul qiluvchi metod yozing.
+
+27. List<? super Integer> bilan ishlaydigan metod yozing va unga integerlar qo‘shing.
+
+28. Generic Repository<T> klass yarating.
+
+save(T)
+findById(...)
+findAll()
+delete(...)
+
+29. Generic Stack yarating.
+
+push()
+pop()
+peek()
+
+30. Generic Queue yarating.

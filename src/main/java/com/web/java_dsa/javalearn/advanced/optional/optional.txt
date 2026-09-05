@@ -1,0 +1,25 @@
+Optional
+
+1. Optional<String> qabul qiluvchi metod yozing. Agar qiymat mavjud bo‘lsa, uni ekranga chiqaring.
+
+2. Optional<String> ichidagi String uzunligini qaytaring. Qiymat bo‘lmasa 0 qaytarsin.
+
+3. Optional<Integer> ichidagi sonni 2 ga ko‘paytiring. Qiymat bo‘lmasa 0.
+
+4. Optional<String> ichidan foydalanuvchi nomini oling. Agar mavjud bo‘lmasa "Unknown" qaytaring.
+
+5. Optional<User> berilgan. User mavjud bo‘lsa uning emailini qaytaring.
+
+6. Optional<User> orqali userning nameini oling. User yoki name null bo‘lishi mumkin.
+
+7. Optional<String> berilgan. Faqat uzunligi 5 dan katta bo‘lgan Stringni qabul qiling.
+
+8. Optional<Integer> berilgan. Faqat musbat sonni qabul qiling.
+
+9. Optional<User> berilgan. Userning yoshi 18 dan katta bo‘lsa userni qaytaring.
+
+10. Optional<User> orqali:
+
+User → Address → City → cityName
+
+zanjirini yarating. Har qanday qiymat null bo‘lishi mumkin.

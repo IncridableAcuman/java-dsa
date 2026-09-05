@@ -1,4 +1,4 @@
-package com.web.java_dsa.javalearn;
+package com.web.java_dsa.javalearn.math;
 
 import java.util.Scanner;
 

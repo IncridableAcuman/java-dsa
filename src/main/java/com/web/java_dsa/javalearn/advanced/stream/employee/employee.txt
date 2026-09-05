@@ -1,0 +1,26 @@
+class Employee {
+    String name;
+    String department;
+    int age;
+    double salary;
+}
+
+20 ta employee yarating.
+
+Quyidagilarni Stream API yordamida bajaring:
+
+salary > 5000 employee'larni toping.
+Ularni salary bo‘yicha kamayish tartibida sort qiling.
+Eng yuqori salary'li employee'ni toping.
+Eng past salary'li employee'ni toping.
+Employee'larni department bo‘yicha guruhlang.
+Har bir department'dagi employee sonini toping.
+Har bir department uchun o‘rtacha salary toping.
+Barcha employee salary'larining yig‘indisini toping.
+30 yoshdan katta employee bormi?
+Barcha employee'lar salary'si 2000 dan kattami?
+Faqat employee nomlarini oling.
+Takroriy departmentlarni Setga yig‘ing.
+Employee nomlarini ", " bilan birlashtiring.
+Employee'larni Map<name, salary>ga aylantiring.
+Salary statistikalarini chiqaring.

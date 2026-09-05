@@ -1,0 +1,56 @@
+🟠 3-BOSQICH — Exception Handling
+41–55
+
+41. Nolga bo‘lish holatini ushlang.
+
+42. Array index xatosini ushlang.
+
+43. Stringni integerga aylantirishda yuzaga keladigan exceptionni ushlang.
+
+44. Foydalanuvchidan yosh oling. Yosh manfiy bo‘lsa custom exception tashlang.
+
+45. InsufficientBalanceException yarating.
+
+Bank hisobidan balansdan ko‘p pul yechilsa exception tashlansin.
+
+46. UserNotFoundException yarating.
+
+User topilmasa ushbu exception ishlasin.
+
+47. InvalidEmailException yarating.
+
+Email noto‘g‘ri formatda bo‘lsa exception tashlang.
+
+48. InvalidPasswordException yarating.
+
+Password 8 belgidan kam bo‘lsa exception tashlang.
+
+49. try-catch-finally yordamida fayl bilan ishlash dasturi yozing.
+
+50. Bir nechta exceptionni bitta catch orqali ushlang.
+
+51. Method exceptionni o‘zi hal qilmasdan, yuqoriga throws orqali uzatsin.
+
+52. Exception chain yarating:
+
+DatabaseException
+    ↓
+ServiceException
+    ↓
+ControllerException
+
+53. try-with-resources yordamida fayl o‘qing.
+
+54. Custom exception hierarchy yarating:
+
+ApplicationException
+   ├── UserException
+   ├── OrderException
+   └── PaymentException
+
+55. Bank transaction tizimi yarating. Quyidagi holatlarning har biri uchun alohida exception ishlating:
+
+InvalidAccount
+InsufficientBalance
+InvalidAmount
+AccountBlocked

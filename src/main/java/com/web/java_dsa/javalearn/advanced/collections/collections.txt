@@ -1,0 +1,21 @@
+Collections
+
+31. HashMap ichidagi barcha elementlarni qiymati bo‘yicha ascending tartibda chiqaring.
+
+32. Map<String, Integer> berilgan. Eng katta qiymatga ega elementni toping.
+
+33. Map<String, Integer> berilgan. Eng kichik qiymatni toping.
+
+34. List<String> ichidagi duplicate elementlarni toping.
+
+35. List<Integer> ichidagi takroriy elementlarni olib tashlang.
+
+36. List<Employee>ni salary bo‘yicha kamayish tartibida sort qiling.
+
+37. List<Employee>ni department va keyin salary bo‘yicha sort qiling.
+
+38. Map<String, Integer> berilgan. Bir xil qiymatga ega keylarni guruhlang.
+
+39. TreeMap yordamida studentlarni ism bo‘yicha tartiblang.
+
+40. PriorityQueue yordamida eng katta salaryga ega employee'ni birinchi chiqaradigan tizim yarating.

@@ -1,4 +1,4 @@
-package com.web.java_dsa.javalearn.iostreams;
+package com.web.java_dsa.javalearn.advanced.iostreams;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

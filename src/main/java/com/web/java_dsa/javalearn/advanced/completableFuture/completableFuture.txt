@@ -1,0 +1,32 @@
+🔥 5-BOSQICH — CompletableFuture + I/O + Reflection + JVM
+81–100
+CompletableFuture
+
+81. CompletableFuture yordamida user ma'lumotini asynchronous oling.
+
+82. User topilgandan keyin uning orderlarini oling.
+
+User → Orders
+
+83. Ikkita asynchronous taskni parallel bajaring va natijalarini birlashtiring.
+
+84. thenApply() yordamida natijani o‘zgartiring.
+
+85. thenCompose() yordamida asynchronous tasklarni chain qiling.
+
+86. thenCombine() yordamida ikkita mustaqil task natijasini birlashtiring.
+
+87. exceptionally() yordamida asynchronous exceptionni handle qiling.
+
+88. orTimeout() yordamida asynchronous taskga timeout qo‘ying.
+
+89. 5 ta asynchronous task yarating. Ularning barchasi tugagandan keyin natijalarni oling.
+
+90. Quyidagi backend scenario'ni CompletableFuture bilan yarating:
+
+User Service
+Order Service
+Payment Service
+Notification Service
+
+User ma'lumoti va order parallel olinadi, keyin payment tekshiriladi va oxirida notification yuboriladi.

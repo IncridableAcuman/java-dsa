@@ -1,0 +1,11 @@
+I/O + NIO
+
+91. Fayldagi barcha qatorlarni o‘qing va nechta qator borligini aniqlang.
+
+92. Fayldagi barcha so‘zlarni o‘qing va eng ko‘p uchragan so‘zni toping.
+
+93. Fayldagi barcha ERROR loglarni boshqa faylga yozing.
+
+94. Bir papkadagi barcha .java fayllarni toping.
+
+95. Papka ichidagi fayllarni recursive tarzda qidiring.

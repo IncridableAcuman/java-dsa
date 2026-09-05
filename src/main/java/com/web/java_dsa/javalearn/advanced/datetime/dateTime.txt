@@ -1,0 +1,25 @@
+Date & Time
+
+11. Tug‘ilgan sanani LocalDate sifatida qabul qilib, foydalanuvchining yoshini hisoblang.
+
+12. Berilgan LocalDate hafta kunini aniqlang.
+
+13. Bugungi kundan 30 kun keyingi sanani toping.
+
+14. Berilgan ikkita LocalDate orasidagi kunlar sonini toping.
+
+15. Berilgan sana dam olish kunimi yoki yo‘qmi aniqlang.
+
+16. Foydalanuvchining tug‘ilgan kunigacha qancha kun qolganini hisoblang.
+
+17. LocalDateTime berilgan. Undan faqat sana qismini ajrating.
+
+18. Berilgan LocalDateTimening soat, minut va sekundini chiqaring.
+
+19. Ikki event orasidagi vaqt farqini Duration yordamida toping.
+
+20. Berilgan String:
+
+2026-09-05 14:30:00
+
+ni LocalDateTimega aylantiring.

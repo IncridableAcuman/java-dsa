@@ -1,0 +1,66 @@
+🔴 4-BOSQICH — Multithreading
+56–80
+
+Bu qismni jiddiy ishlashingizni tavsiya qilaman.
+
+Thread
+
+56. 2 ta thread yarating. Biri 1–10, ikkinchisi 11–20 sonlarini chiqarsin.
+
+57. Runnable yordamida thread yarating.
+
+58. Callable yordamida ikkita son yig‘indisini qaytaring.
+
+59. Thread.sleep() yordamida countdown dasturi yarating.
+
+60. Bir nechta thread bir vaqtda ishlaganda ularning execution tartibini kuzating.
+
+Synchronization
+
+61. Bitta Counter obyektini 10 ta thread o‘zgartirsin. Race conditionni kuzating.
+
+62. 61-masaladagi muammoni synchronized yordamida hal qiling.
+
+63. synchronized method va synchronized block o‘rtasidagi farqni amaliyotda ko‘rsating.
+
+64. Bank account yarating. Bir vaqtning o‘zida bir nechta thread pul yechsin.
+
+65. Thread-safe bank account yarating.
+
+ExecutorService
+
+66. ExecutorService yordamida 10 ta taskni bajaring.
+
+67. Fixed thread pool yordamida 20 ta taskni bajaring.
+
+68. Callable yordamida 10 ta sonning kvadratini parallel hisoblang.
+
+69. Future yordamida task natijasini oling.
+
+70. Task 5 sekunddan ko‘p davom etsa timeout qiling.
+
+Atomic
+
+71. Counter'ni AtomicInteger yordamida yarating.
+
+72. 100 ta thread birgalikda counterni oshirsin.
+
+73. AtomicInteger yordamida unique ID generator yarating.
+
+Lock
+
+74. ReentrantLock yordamida bank accountni thread-safe qiling.
+
+75. Bir nechta thread bir resursni o‘qisin, yozuvchi esa uni o‘zgartirsin. ReadWriteLock ishlating.
+
+Concurrency problems
+
+76. Ikki thread bir-birini kutib qoladigan deadlock holatini yarating.
+
+77. 76-masaladagi deadlockni bartaraf qiling.
+
+78. CountDownLatch yordamida 5 ta worker tugagandan keyin main thread ishlaydigan dastur yarating.
+
+79. Semaphore yordamida bir vaqtning o‘zida faqat 3 ta user serverga kira oladigan tizim yarating.
+
+80. ConcurrentHashMap yordamida thread-safe cache yarating.
