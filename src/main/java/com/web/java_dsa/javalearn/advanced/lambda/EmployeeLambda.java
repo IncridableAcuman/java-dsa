@@ -8,11 +8,11 @@ public class EmployeeLambda {
     public static void main(String[] args) {
 
         List<Employee> employees = new ArrayList<>();
-        employees.add(new Employee("Izzatbek",22,5500));
-        employees.add(new Employee("Ismoil",21,5500));
-        employees.add(new Employee("Ali",23,3000));
-        employees.add(new Employee("Abrorbek",22,5500));
-        employees.add(new Employee("Sardor",24,4000));
+        employees.add(new Employee("Izzatbek",22,5500,"IT"));
+        employees.add(new Employee("Ismoil",21,5500,"Finance"));
+        employees.add(new Employee("Ali",23,3000,"HR"));
+        employees.add(new Employee("Abrorbek",22,5500,"Finance"));
+        employees.add(new Employee("Sardor",24,4000,"HR"));
 
         /* // maoshi 5000 dan katta bo‘lganlarni toping;
         // salary grater than 5000

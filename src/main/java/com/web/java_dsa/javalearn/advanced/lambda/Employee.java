@@ -4,11 +4,14 @@ public class Employee {
     private String name;
     private int age;
     private double salary;
+    private String department;
 
-    public Employee(String name,int age,double salary){
+    public Employee(String name,int age,double salary,String department){
         this.name=name;
         this.age=age;
         this.salary=salary;
+        this.department=department;
+
     }
 
     public double getSalary() {
@@ -22,10 +25,13 @@ public class Employee {
     public String getName() {
         return name;
     }
+    public String getDepartment(){
+        return department;
+    }
 
     @Override
     public String toString(){
-        return "Employee{name='" + name + "', age=" + age + ", salary=" + salary + "}";
+        return "Employee{name='" + name + "', age=" + age + ",department='" + department + "', salary=" + salary + "}";
     }
 
     // 26. Employee bilan ishlash
