@@ -23,3 +23,398 @@ Date & Time
 2026-09-05 14:30:00
 
 ni LocalDateTimega aylantiring.
+
+
+------------------------------
+
+🟢 1-BOSQICH — LocalDate
+1–20
+
+1. Bugungi sanani chiqaring.
+
+2. Berilgan yil, oy va kundan LocalDate yarating.
+
+3. Tug‘ilgan sanangizni LocalDate sifatida yarating.
+
+4. Berilgan sananing yilini, oyini va kunini alohida chiqaring.
+
+5. Berilgan sana haftaning qaysi kuniga to‘g‘ri kelishini aniqlang.
+
+6. Berilgan sana oyning nechanchi kuni ekanini aniqlang.
+
+7. Berilgan sana yilning nechanchi kuni ekanini toping.
+
+8. Berilgan yil kabisa yili ekanligini aniqlang.
+
+9. Berilgan sana oyning oxirgi kuni ekanligini tekshiring.
+
+10. Berilgan sana yilning birinchi kuni ekanligini tekshiring.
+
+11. Bugungi sanadan 10 kun keyingi sanani toping.
+
+12. Bugungi sanadan 3 oy keyingi sanani toping.
+
+13. Bugungi sanadan 2 yil oldingi sanani toping.
+
+14. Berilgan sanadan 45 kun keyingi sanani hisoblang.
+
+15. Berilgan sanadan 6 oy oldingi sanani toping.
+
+16. Ikki sana orasidagi qaysi biri oldin ekanligini aniqlang.
+
+17. Ikki sana tengligini tekshiring.
+
+18. Tug‘ilgan sanadan foydalanib yoshni hisoblang.
+
+19. Foydalanuvchining 18 yoshga to‘lish sanasini hisoblang.
+
+20. Berilgan sana dam olish kunimi yoki ish kunimi aniqlang.
+
+--------------------------------------------------------------
+🟢 2-BOSQICH — Period
+21–30
+
+21. Tug‘ilgan sana va bugungi sana orasidagi farqni Period orqali toping.
+
+Natija:
+
+23 years, 4 months, 12 days
+
+22. Ikki sana orasidagi faqat yillar farqini toping.
+
+23. Ikki sana orasidagi faqat oylar farqini toping.
+
+24. Ikki sana orasidagi faqat kunlar farqini toping.
+
+25. Xodimning ishga kirgan sanasidan beri necha yil, oy, kun o'tganini hisoblang.
+
+26. Kredit muddati:
+
+2 yil 6 oy
+
+bo‘lsa, boshlang‘ich sanaga qo‘shing.
+27. Subscription muddati:
+
+1 yil 3 oy
+
+bo‘lsa, tugash sanasini toping.
+
+28. Ikki sana orasidagi Periodni chiqarib, "2 years 3 months 5 days" formatida ko‘rsating.
+
+29. Foydalanuvchining keyingi tug‘ilgan kunigacha bo‘lgan vaqtni hisoblang.
+
+30. Employee kompaniyada kamida 1 yil ishlaganligini Period yordamida aniqlang.
+---------------------------------------------------------------------------------------
+🟡 3-BOSQICH — LocalTime
+31–45
+
+31. Hozirgi vaqtni chiqaring.
+
+32. Berilgan soat, minut va sekunddan LocalTime yarating.
+
+33. Vaqtdan soat, minut, sekund va nanosekundni ajrating.
+
+34. Berilgan vaqtga 2 soat qo‘shing.
+
+35. Berilgan vaqtdan 45 minut ayiring.
+
+36. Ikki LocalTime orasidagi qaysi biri oldinligini aniqlang.
+
+37. Ikki vaqt tengligini tekshiring.
+
+38. Restaurant:
+
+09:00 - 22:00
+
+oralig‘ida ochiq ekanligini tekshiring.
+
+39. Foydalanuvchi kiritgan vaqt ish vaqtiga to‘g‘ri keladimi?
+
+09:00 - 18:00
+
+40. Berilgan vaqt tushlik vaqtiga to‘g‘ri keladimi?
+
+12:00 - 14:00
+
+41. Berilgan vaqtga 90 minut qo‘shing.
+
+42. Ikki vaqt orasidagi minutlar sonini toping.
+
+43. Ikki vaqt orasidagi sekundlar sonini toping.
+
+44. Berilgan vaqtni eng yaqin 15 minutlik intervalga yaxlitlang.
+
+Masalan:
+
+10:07 → 10:00
+10:08 → 10:15
+
+45. Online meeting boshlanish vaqtiga 1 soat 30 minut qo‘shib tugash vaqtini toping.
+----------------------------------------------------------------------------------------
+🟡 4-BOSQICH — LocalDateTime
+46–65
+
+46. Hozirgi sana va vaqtni LocalDateTime orqali oling.
+
+47. Berilgan sana va vaqtdan LocalDateTime yarating.
+
+48. LocalDateTimedan LocalDate va LocalTimeni ajrating.
+
+49. Berilgan datetime'ga 5 kun qo‘shing.
+
+50. Berilgan datetime'ga 3 soat qo‘shing.
+
+51. Berilgan datetime'dan 2 oy ayiring.
+
+52. Ikki LocalDateTime orasidagi vaqt farqini toping.
+
+53. Event boshlanishi va tugash vaqtini berib, event davomiyligini hisoblang.
+
+54. Login vaqtini berib, user 30 minutdan ko‘proq oldin login qilganligini tekshiring.
+
+55. Order yaratilganidan beri 24 soatdan ko‘p vaqt o'tganligini aniqlang.
+
+56. Token yaratilgan vaqt va expiration vaqtini berib, token expired yoki yo‘qligini aniqlang.
+
+57. Booking boshlanishidan 15 minut oldin reminder chiqaradigan dastur yozing.
+
+58. Berilgan LocalDateTime hafta oxiriga to‘g‘ri keladimi?
+
+59. Ikki event bir vaqtda sodir bo‘lishi mumkinligini aniqlang.
+
+60. Meeting:
+
+2026-09-06 14:00
+
+da boshlanadi va 2 soat 45 minut davom etadi. Tugash vaqtini toping.
+
+61. Berilgan datetime o'tganmi yoki kelajakdagi vaqtmi aniqlang.
+
+62. User account yaratilganidan 7 kun o'tgan bo‘lsa activation muddatini tugagan deb belgilang.
+
+63. Order 3 soat ichida yetkazilishi kerak. Delivery deadline'ni hisoblang.
+
+64. Ikki datetime orasidagi jami minutlarni toping.
+
+65. Ikki datetime orasidagi jami sekundlarni toping.
+------------------------------------------------------------------------
+🔥 5-BOSQICH — DateTimeFormatter
+66–80
+
+66. LocalDateni quyidagi formatga o‘tkazing:
+
+06/09/2026
+
+67. Sanani:
+
+06-09-2026
+
+formatida chiqaring.
+
+68. Sanani:
+
+06 September 2026
+
+ko‘rinishida chiqaring.
+
+69. LocalDateTimeni:
+
+06.09.2026 14:35:20
+
+formatiga o‘tkazing.
+
+70. Quyidagi Stringni LocalDatega parse qiling:
+
+2026-09-06
+
+71. Quyidagi Stringni LocalDateTimega parse qiling:
+
+2026-09-06 14:35:20
+
+72. Quyidagi Stringni parse qiling:
+
+06/09/2026 14:35
+
+73. Noto‘g‘ri sana kiritilganda exceptionni handle qiling.
+
+Masalan:
+
+31/02/2026
+
+74. Foydalanuvchi sanani:
+
+dd.MM.yyyy
+
+formatida kiritsin.
+
+Uni LocalDatega aylantiring.
+
+75. Bir xil sanani 3 xil formatda chiqaring:
+
+06.09.2026
+06/09/2026
+September 6, 2026
+
+76. DateTimeFormatter yordamida vaqtni:
+
+14:35
+14:35:20
+02:35 PM
+
+formatlarida chiqaring.
+
+77. ISO formatdagi datetime'ni parse qiling:
+
+2026-09-06T14:35:20
+
+78. User quyidagicha sana kiritsin:
+
+2026/09/06
+
+Uni parse qiling.
+
+79. Formatter yordamida "Sunday, 06 September 2026" formatini yarating.
+
+80. O'zbek tilida oy nomini chiqarishga harakat qiling.
+
+Masalan:
+
+06 sentyabr 2026
+----------------------------------------------------------------------------
+🔴 6-BOSQICH — Duration
+81–90
+
+81. Ikki LocalTime orasidagi Durationni toping.
+
+82. Ikki LocalDateTime orasidagi Durationni toping.
+
+83. Video davomiyligini hisoblang.
+
+Start: 10:15:30
+End:   12:45:20
+
+84. HTTP request qancha millisekund davom etganini hisoblang.
+
+85. Method execution time'ni o‘lchang.
+
+start = ...
+execute method
+end = ...
+
+86. User session 30 minutdan uzun davom etsa "Long session" chiqaring.
+
+87. Ikki event orasida 5 minutdan kam vaqt qolganligini aniqlang.
+
+88. Timer yarating:
+
+00:05:00
+
+va har sekundda qolgan vaqtni ko‘rsating.
+
+89. Countdown timer yarating.
+
+90. Backend service response time'ni o‘lchab:
+
+< 100ms     FAST
+100-500ms   NORMAL
+> 500ms     SLOW
+
+deb belgilang.
+---------------------------------------------------------------------
+🌍 7-BOSQICH — Time Zone
+91–105
+
+Bu qism backend developer uchun juda muhim.
+
+91. Tizimdagi mavjud timezone'larni chiqaring.
+
+92. Asia/Tashkent timezone bilan hozirgi vaqtni oling.
+
+93. Europe/London timezone bilan hozirgi vaqtni oling.
+
+94. Tashkent va London vaqtini bir vaqtda chiqaring.
+
+95. Tashkentdagi 15:00 vaqtni New York vaqtiga aylantiring.
+
+96. Tashkentdagi meeting vaqtini Tokyo vaqtiga o'tkazing.
+
+97. User timezone'ini berib, uning local vaqtini ko‘rsating.
+
+Asia/Tashkent
+Europe/Berlin
+America/New_York
+Asia/Tokyo
+
+98. Online meeting Tashkent vaqti bilan 18:00da boshlanadi. New Yorkdagi vaqtini toping.
+
+99. Dunyoning 5 ta timezone'ida hozirgi vaqtni chiqaring.
+
+100. User profile'da timezone saqlang:
+
+username
+timezone
+
+va login vaqtini shu timezone bo‘yicha ko‘rsating.
+
+101. ZonedDateTime yordamida meeting yaratish tizimini yarating.
+
+102. Bir timezone'dagi ZonedDateTimeni boshqa timezone'ga o‘tkazing.
+
+103. DST mavjud timezone'da vaqt o‘zgarishini kuzating.
+
+104. Bir xil LocalDateTime ikki xil timezone'da qanday farq qilishini ko‘rsating.
+
+105. "Server UTCda ishlaydi, user local timezone'da ko‘radi" tizimini yarating.
+------------------------------------------------------------------------------------
+🔥 8-BOSQICH — Instant va UTC
+106–115
+
+106. Hozirgi Instantni oling.
+
+107. Instantni Unix timestampga aylantiring.
+
+108. Unix timestampni Instantga aylantiring.
+
+109. Ikki Instant orasidagi millisekundlarni hisoblang.
+
+110. API request vaqtini Instant orqali o‘lchang.
+
+111. Database'da saqlanadigan timestamp uchun Instantdan foydalaning.
+
+112. UTC vaqtni ZonedDateTimega o'tkazing.
+
+113. Instantni Tashkent local vaqtiga aylantiring.
+
+114. Tashkent local vaqtini Instantga aylantiring.
+
+115. Quyidagi arxitekturani implement qiling:
+
+Client
+   ↓
+Local Time
+   ↓
+UTC / Instant
+   ↓
+Database
+   ↓
+UTC / Instant
+   ↓
+User Timezone
+   ↓
+Client
+----------------------------------------------------
+🧓 9-BOSQICH — Eski Date va Calendar
+116–120
+
+Bularni yangi loyihalarda kamroq ishlatasiz, lekin legacy Java kodni tushunish uchun bilish kerak.
+
+116. java.util.Date orqali hozirgi vaqtni oling.
+
+117. Date obyektini LocalDateTimega aylantiring.
+
+118. LocalDateTimeni Datega aylantiring.
+
+119. Calendar yordamida bugungi yil, oy va kunni oling.
+
+120. Eski Date API'dan foydalanayotgan legacy kodni java.time API'ga migrate qiling.
+------------------------------------------------------------
