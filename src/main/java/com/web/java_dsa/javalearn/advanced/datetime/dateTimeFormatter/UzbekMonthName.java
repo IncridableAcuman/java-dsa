@@ -1,7 +1,6 @@
 package com.web.java_dsa.javalearn.advanced.datetime.dateTimeFormatter;
 
 import java.time.LocalDate;
-import java.time.Month;
 
 
 public class UzbekMonthName {
@@ -16,6 +15,10 @@ public class UzbekMonthName {
         "Oktyabr","Noyabr","Dekabr"};
         long day = date.getDayOfMonth();
         long year = date.getYear();
-        Month month = date.getMonth();
+        String monthName = uzbekMonthNames[date.getMonthValue() - 1];
+
+        String formatedDay = String.format("%2d",day);
+
+        System.out.println(formatedDay + " " + monthName + " " + year);
     }
 }
