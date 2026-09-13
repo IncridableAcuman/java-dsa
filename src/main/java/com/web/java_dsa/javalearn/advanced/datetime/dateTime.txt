@@ -387,34 +387,3 @@ va login vaqtini shu timezone bo‘yicha ko‘rsating.
 
 114. Tashkent local vaqtini Instantga aylantiring.
 
-115. Quyidagi arxitekturani implement qiling:
-
-Client
-   ↓
-Local Time
-   ↓
-UTC / Instant
-   ↓
-Database
-   ↓
-UTC / Instant
-   ↓
-User Timezone
-   ↓
-Client
-----------------------------------------------------
-🧓 9-BOSQICH — Eski Date va Calendar
-116–120
-
-Bularni yangi loyihalarda kamroq ishlatasiz, lekin legacy Java kodni tushunish uchun bilish kerak.
-
-116. java.util.Date orqali hozirgi vaqtni oling.
-
-117. Date obyektini LocalDateTimega aylantiring.
-
-118. LocalDateTimeni Datega aylantiring.
-
-119. Calendar yordamida bugungi yil, oy va kunni oling.
-
-120. Eski Date API'dan foydalanayotgan legacy kodni java.time API'ga migrate qiling.
-------------------------------------------------------------
