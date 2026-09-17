@@ -12,7 +12,7 @@ Collections
 
 36. List<Employee>ni salary bo‘yicha kamayish tartibida sort qiling.
 
-37. List<Employee>ni department va keyin salary bo‘yicha sort qiling.
+37. List<Employee>ni company va keyin salary bo‘yicha sort qiling.
 
 38. Map<String, Integer> berilgan. Bir xil qiymatga ega keylarni guruhlang.
 
