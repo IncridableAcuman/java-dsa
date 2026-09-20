@@ -1,0 +1,314 @@
+1. Arrays — 30 ta
+Massivdagi eng katta elementni toping.
+Massivdagi eng kichik elementni toping.
+Massiv elementlarining yig‘indisini hisoblang.
+Massiv elementlarining o‘rtacha qiymatini toping.
+Massivdagi juft sonlar sonini aniqlang.
+Massivdagi toq sonlar sonini aniqlang.
+Massivni teskari tartibda joylashtiring.
+Massivdagi ikkinchi eng katta elementni toping.
+Massivdagi ikkinchi eng kichik elementni toping.
+Massivning barcha elementlarini bir pozitsiyaga o‘ngga suring.
+Massivni k pozitsiyaga o‘ngga rotate qiling.
+Massivni k pozitsiyaga chapga rotate qiling.
+Massivdagi barcha 0 larni oxiriga o'tkazing.
+Massivdagi musbat, manfiy va 0 elementlarni alohida sanang.
+Massivning barcha elementlari orasidan takrorlanganlarini toping.
+Takrorlanmaydigan elementlarni toping.
+Massivdagi eng ko‘p uchraydigan elementni toping.
+Massivda faqat bir marta uchraydigan elementni toping.
+Ikki massivning umumiy elementlarini toping.
+Ikki massivning birlashmasini hosil qiling.
+Ikki massiv bir-biriga tengligini tekshiring.
+Massivning monoton o‘suvchi ekanligini tekshiring.
+Massivning monoton kamayuvchi ekanligini tekshiring.
+Massivdan berilgan qiymatni barcha uchrashuvlari bilan o‘chiring.
+Massivdagi eng uzun ketma-ket bir xil elementlar guruhini toping.
+Massivdagi maksimal farqni toping: arr[j] - arr[i], j > i.
+Massivda yig‘indisi target ga teng bo‘lgan juftlik mavjudligini aniqlang.
+Massivda yig‘indisi target ga teng bo‘lgan barcha juftliklarni toping.
+Massivning prefix sum massivini hosil qiling.
+Massivdagi maksimal subarray yig‘indisini toping.
+2. Strings — 25 ta
+String uzunligini length() ishlatmasdan toping.
+Stringni teskari qiling.
+String palindrome ekanligini tekshiring.
+Stringdagi unli harflar sonini toping.
+Stringdagi undoshlar sonini toping.
+Stringdagi raqamlar sonini toping.
+Stringdagi katta va kichik harflar sonini hisoblang.
+Stringdagi har bir belgining chastotasini toping.
+Stringdagi birinchi takrorlanmaydigan belgini toping.
+Stringdagi birinchi takrorlangan belgini toping.
+Stringdagi barcha takrorlangan belgilarni toping.
+Ikki string anagram ekanligini tekshiring.
+Stringdagi barcha bo‘sh joylarni olib tashlang.
+Stringdagi ketma-ket takrorlangan belgilarni siqing.
+Stringdagi eng uzun so‘zni toping.
+Stringdagi eng qisqa so‘zni toping.
+Stringdagi so‘zlar sonini hisoblang.
+Har bir so‘zning birinchi harfini katta harfga o‘zgartiring.
+Stringdagi barcha so‘zlarni teskari tartibda joylashtiring.
+Stringdagi har bir so‘zning belgilarini teskari qiling.
+Bir string ikkinchi stringning rotation'i ekanligini aniqlang.
+String ichidagi eng uzun palindrome substringni toping.
+Ikki stringning longest common prefixini toping.
+Stringdagi eng uzun takrorlanmaydigan substring uzunligini toping.
+Stringdagi eng uzun bir xil belgilar ketma-ketligini toping.
+3. Two Pointers / Sliding Window — 20 ta
+Sorted array ichidan yig‘indisi target bo‘lgan ikkita elementni toping.
+Sorted arraydagi duplicate elementlarni olib tashlang.
+Sorted arraydagi 0 larni oxiriga o'tkazing.
+Arrayni ikki pointer yordamida reverse qiling.
+Arraydagi musbat va manfiy sonlarni ajrating.
+Ikki sorted arrayni bitta sorted arrayga birlashtiring.
+Uchta massivdagi umumiy elementlarni toping.
+Container With Most Water masalasini yeching.
+Sorted arrayda target ga eng yaqin juftlikni toping.
+Uchta element yig‘indisi 0 bo‘lgan barcha tripletlarni toping.
+Uchta element yig‘indisi target bo‘lgan barcha tripletlarni toping.
+Arraydan duplicate tripletlarni hisobga olmasdan barcha 3-sum kombinatsiyalarni toping.
+k uzunlikdagi oynadagi maksimal yig‘indini toping.
+k uzunlikdagi oynadagi minimal yig‘indini toping.
+Berilgan target dan katta yoki teng yig‘indiga ega eng kichik subarrayni toping.
+Takrorlanmaydigan belgilarni o‘z ichiga olgan eng uzun substringni toping.
+Kamida k xil belgi qatnashgan eng qisqa substringni toping.
+Stringdagi barcha anagram substringlarning boshlanish indekslarini toping.
+Maksimal k ta turdagi belgidan iborat eng uzun substringni toping.
+Har bir oynadagi maksimal elementni toping.
+4. Linked List — 25 ta
+Singly Linked List yarating.
+Linked List oxiriga element qo‘shing.
+Linked List boshiga element qo‘shing.
+Berilgan indeksga element qo‘shing.
+Linked Listdan element o‘chiring.
+Linked List uzunligini toping.
+Linked Listdagi berilgan qiymatni qidiring.
+Linked Listni reverse qiling.
+Linked Listdagi maksimal elementni toping.
+Linked Listdagi minimal elementni toping.
+Linked List palindrome ekanligini tekshiring.
+Linked Listdagi n-elementni oxiridan toping.
+Linked Listdagi duplicate elementlarni o‘chiring.
+Sorted Linked Listdagi duplicate elementlarni o‘chiring.
+Ikki Linked Listni birlashtiring.
+Ikki sorted Linked Listni merge qiling.
+Ikki Linked List kesishadigan node'ni toping.
+Linked Listda cycle mavjudligini aniqlang.
+Linked Listdagi cycle boshlanish node'ini toping.
+Linked Listning o‘rtasidagi node'ni toping.
+Linked Listni k guruhlarga bo‘lib reverse qiling.
+Linked Listni juft va toq pozitsiyalar bo‘yicha ajrating.
+Linked Listdagi node'larni qiymat bo‘yicha partition qiling.
+Bir nechta sorted Linked Listlarni bitta sorted listga birlashtiring.
+Random pointerli Linked Listning deep copy'sini yarating.
+5. Stack va Queue — 25 ta
+Array yordamida Stack implementatsiya qiling.
+Linked List yordamida Stack implementatsiya qiling.
+Array yordamida Queue implementatsiya qiling.
+Linked List yordamida Queue implementatsiya qiling.
+Circular Queue implementatsiya qiling.
+Stack yordamida Queue implementatsiya qiling.
+Queue yordamida Stack implementatsiya qiling.
+Stackdagi elementlarni reverse qiling.
+Stack elementlarining tartibini saqlagan holda yangi Stack yarating.
+Berilgan bracket sequence balanslanganligini tekshiring.
+()[]{} kabi bracketlarni validatsiya qiling.
+Infix expressionni Postfix expressionga o'tkazing.
+Postfix expressionni hisoblang.
+Prefix expressionni hisoblang.
+Stack yordamida stringni reverse qiling.
+Har bir element uchun Next Greater Elementni toping.
+Har bir element uchun Next Smaller Elementni toping.
+Previous Greater Elementni toping.
+Previous Smaller Elementni toping.
+Stack yordamida histogramdagi maksimal rectangle maydonini toping.
+Stack yordamida O(1) minimum topuvchi Stack yarating.
+Stack yordamida O(1) maximum topuvchi Stack yarating.
+Queue yordamida binary tree level-order traversal qiling.
+Bir nechta queue operatsiyalarini bitta priority queue yordamida boshqaring.
+Berilgan operations ketma-ketligidan keyingi queue holatini aniqlang.
+6. Hashing — 20 ta
+Arraydagi elementlarning frequency map'ini yarating.
+Birinchi takrorlangan elementni HashMap yordamida toping.
+Birinchi takrorlanmaydigan elementni toping.
+Ikki arrayning intersectionini toping.
+Ikki arrayning unionini toping.
+Arrayda target yig‘indili pairni HashMap bilan toping.
+Arrayda 0 yig‘indili subarray mavjudligini aniqlang.
+Eng uzun 0 yig‘indili subarrayni toping.
+target yig‘indili subarraylar sonini toping.
+Eng uzun consecutive sequence uzunligini toping.
+Arraydagi duplicate sonni toping.
+Ikki string anagram ekanligini HashMap bilan tekshiring.
+Bir xil frequency pattern'ga ega stringlarni guruhlang.
+Stringdagi barcha anagramlarni guruhlang.
+Eng ko‘p uchraydigan k ta elementni toping.
+Eng ko‘p uchraydigan k ta so‘zni toping.
+Berilgan arrayni frequency bo‘yicha sort qiling.
+Ikki arraydagi bir xil frequency elementlarini toping.
+Longest substring with at most k distinct characters masalasini yeching.
+Longest substring with exactly k distinct characters masalasini yeching.
+7. Searching — 20 ta
+Linear Search implementatsiya qiling.
+Iterative Binary Search implementatsiya qiling.
+Recursive Binary Search implementatsiya qiling.
+Sorted arrayda birinchi occurrence indeksini toping.
+Sorted arrayda oxirgi occurrence indeksini toping.
+Berilgan qiymatning frequency'sini Binary Search orqali toping.
+Sorted arrayda target mavjudligini tekshiring.
+target uchun insertion positionni toping.
+Sorted arraydagi floor qiymatini toping.
+Sorted arraydagi ceil qiymatini toping.
+Integer square rootni Binary Search orqali toping.
+Rotated sorted arraydan element qidiring.
+Rotated sorted arraydagi minimumni toping.
+Duplicate'li rotated sorted arraydan element qidiring.
+Peak elementni toping.
+Bitonic arraydagi maksimal elementni toping.
+Bitonic arraydan berilgan elementni qidiring.
+Ikki sorted array medianini toping.
+Arraydagi missing numberni Binary Search yordamida toping.
+Arraydagi duplicate qiymatni binary-search-on-answer usuli bilan toping.
+8. Sorting — 20 ta
+Bubble Sort implementatsiya qiling.
+Selection Sort implementatsiya qiling.
+Insertion Sort implementatsiya qiling.
+Merge Sort implementatsiya qiling.
+Quick Sort implementatsiya qiling.
+Heap Sort implementatsiya qiling.
+Counting Sort implementatsiya qiling.
+Radix Sort implementatsiya qiling.
+Bucket Sort implementatsiya qiling.
+Arrayni faqat 0, 1, 2 qiymatlar yordamida sort qiling.
+Merge Sort yordamida inversionlar sonini toping.
+Arrayni absolute value bo‘yicha sort qiling.
+Interval'larni boshlanish nuqtasi bo‘yicha sort qiling.
+Stringlarni uzunligi bo‘yicha sort qiling.
+Arraydagi elementlarni frequency bo‘yicha sort qiling.
+Ikki sorted arrayni O(1) extra space bilan merge qiling.
+k-sorted arrayni sort qiling.
+Ranglar ketma-ketligini Dutch National Flag algoritmi bilan sort qiling.
+Berilgan arraydagi kth smallest elementni toping.
+Berilgan arraydagi kth largest elementni toping.
+9. Recursion — 15 ta
+1 dan n gacha sonlarni recursion bilan chiqaring.
+n dan 1 gacha sonlarni recursion bilan chiqaring.
+n! ni recursion yordamida hisoblang.
+a^b ni recursion bilan hisoblang.
+Fibonacci sonini recursion bilan toping.
+Fibonacci sonini memoization bilan toping.
+Raqamlar yig‘indisini recursion bilan toping.
+Raqamlar ko‘paytmasini recursion bilan toping.
+Sonni recursion yordamida reverse qiling.
+String palindrome ekanligini recursion bilan tekshiring.
+Arraydagi maksimal elementni recursion bilan toping.
+Array yig‘indisini recursion bilan toping.
+Binary Search'ni recursion bilan implementatsiya qiling.
+Euclidean algorithm yordamida GCD toping.
+Tower of Hanoi masalasini yeching.
+10. Backtracking — 20 ta
+Barcha subsetlarni generatsiya qiling.
+Barcha permutationlarni generatsiya qiling.
+Stringning barcha kombinatsiyalarini generatsiya qiling.
+k ta elementdan iborat barcha combinationlarni toping.
+target yig‘indiga ega combinationlarni toping.
+Combination Sum masalasini yeching.
+Combination Sum II masalasini yeching.
+Telefon keypad kombinatsiyalarini generatsiya qiling.
+N-Queens masalasini yeching.
+N-Queens yechimlari sonini toping.
+Sudoku Solver yarating.
+Sudoku board valid ekanligini tekshiring.
+Word Search masalasini yeching.
+Maze ichida barcha yo‘llarni toping.
+Maze'dagi boshlang‘ich nuqtadan oxirgi nuqtagacha yo‘l mavjudligini aniqlang.
+Rat in a Maze masalasini yeching.
+Graph uchun barcha simple pathlarni toping.
+Berilgan stringni valid palindrome partitionlarga ajrating.
+Arrayni k ta teng yig‘indili subsetga ajratish mumkinligini tekshiring.
+Matchsticks yordamida square yasash mumkinligini aniqlang.
+11. Binary Tree — 25 ta
+Binary Tree yarating.
+Recursive Preorder Traversal yozing.
+Recursive Inorder Traversal yozing.
+Recursive Postorder Traversal yozing.
+Iterative Preorder Traversal yozing.
+Iterative Inorder Traversal yozing.
+Iterative Postorder Traversal yozing.
+Level Order Traversal yozing.
+Tree'ning maksimal depthini toping.
+Tree'ning minimal depthini toping.
+Binary Tree'dagi node'lar sonini toping.
+Leaf node'lar sonini toping.
+Tree'dagi maksimal qiymatni toping.
+Tree'dagi minimal qiymatni toping.
+Ikki binary tree bir xil ekanligini tekshiring.
+Binary Tree mirror ekanligini tekshiring.
+Binary Tree'ni invert qiling.
+Tree'dagi barcha root-to-leaf pathlarni toping.
+Root-to-leaf path yig‘indisi target ga tengligini tekshiring.
+Binary Tree'dagi barcha root-to-leaf pathlarni string ko‘rinishida chiqaring.
+Binary Tree diameterini toping.
+Binary Tree maximum path sumini toping.
+Ikki node'ning Lowest Common Ancestor'ini toping.
+Binary Tree'ni serialize qiling.
+Serialized Binary Tree'dan tree'ni deserialize qiling.
+12. Binary Search Tree — 20 ta
+BST'ga element qo‘shing.
+BST'dan element qidiring.
+BST'dan node o‘chiring.
+BST'dagi minimum qiymatni toping.
+BST'dagi maximum qiymatni toping.
+BST valid ekanligini tekshiring.
+BST'dagi kth smallest elementni toping.
+BST'dagi kth largest elementni toping.
+BST'da floor qiymatini toping.
+BST'da ceil qiymatini toping.
+BST'dagi LCA ni toping.
+Sorted arraydan balanced BST yarating.
+BST'ni sorted arrayga aylantiring.
+Sorted Linked Listdan balanced BST yarating.
+BST'dagi ikkita qiymat yig‘indisi target ekanligini tekshiring.
+BST'dagi ikkita eng yaqin qiymatni toping.
+BST'da berilgan qiymatga eng yaqin node'ni toping.
+BST'dagi noto‘g‘ri joylashgan ikkita node'ni toping.
+BST'ni balanslangan BST'ga aylantiring.
+Binary Tree BST ekanligini aniqlang.
+13. Heap / Priority Queue — 15 ta
+Min Heap implementatsiya qiling.
+Max Heap implementatsiya qiling.
+Heap'ga element qo‘shing.
+Heap'dan minimum elementni o‘chiring.
+Heap'dan maximum elementni o‘chiring.
+Arraydan Min Heap yarating.
+Arraydan Max Heap yarating.
+Heap Sort implementatsiya qiling.
+k ta eng katta elementni toping.
+k ta eng kichik elementni toping.
+Streaming ma'lumotlardan medianani toping.
+Bir nechta sorted arraylarni heap yordamida merge qiling.
+Eng ko‘p uchraydigan k ta elementni heap yordamida toping.
+Rope'larni birlashtirishning minimal costini toping.
+CPU tasklarni minimal vaqt bilan bajarish tartibini toping.
+14. Graph — 30 ta
+Graphni adjacency matrix yordamida yarating.
+Graphni adjacency list yordamida yarating.
+Undirected graphga edge qo‘shing.
+Directed graphga edge qo‘shing.
+Graph uchun BFS implementatsiya qiling.
+Graph uchun DFS implementatsiya qiling.
+Recursive DFS implementatsiya qiling.
+Graphdagi node'lar sonini toping.
+Graphda berilgan node mavjudligini qidiring.
+Ikki node orasida path mavjudligini aniqlang.
+Graphdagi connected componentlar sonini toping.
+Eng katta connected component hajmini toping.
+Undirected graphda cycle mavjudligini aniqlang.
+Directed graphda cycle mavjudligini aniqlang.
+Graph bipartite ekanligini tekshiring.
+Graphdagi barcha connected componentlarni chiqaring.
+Grid ichidagi islandlar sonini toping.
+Grid ichidagi eng katta island maydonini toping.
+Gridda boshlang‘ich nuqtadan oxirgi nuqtagacha eng qisqa yo‘lni toping.
+Graphdagi ikkita node orasidagi eng qisqa yo‘lni BFS yordamida toping.
