@@ -26,6 +26,7 @@ public class Main {
                 .forEach(System.out::println);
 
          */
+        /*
         // product
         List<Product> products = new ArrayList<>();
         products.add(new Product(1,"Apple",1,10));
@@ -64,5 +65,23 @@ public class Main {
 
         products
                 .forEach(System.out::println);
+
+         */
+        /*
+        // Rectangle
+        Rectangle rectangle = new Rectangle(5,5);
+        int area = rectangle.getArea();
+        System.out.println("Area: " + area);
+        int perimeter = rectangle.getPerimeter();
+        System.out.println("Perimeter: " + perimeter);
+        boolean isSquare = rectangle.isSquare();
+        System.out.println("Is square: " + isSquare);
+
+         */
+
+        Employee employee = new Employee(1,"Izzatbek",500000,"Software Engineer");
+        String increatedSalary = employee.increaseSalary(25);
+        System.out.println(increatedSalary);
+        System.out.println(employee.toString());
     }
 }
