@@ -6,13 +6,14 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
+        // Bank Account
         /*BankAccount account = new BankAccount("qwerty123","Anvar",2005.5);
         account.deposit(200.5);
         System.out.println(account.getBalance());
         account.withDraw(1000.1);
         System.out.println(account.getBalance());
         System.out.println(account);*/
-
+        // Student
         /*
         // student
         List<Student> students = new ArrayList<>();
@@ -26,6 +27,7 @@ public class Main {
                 .forEach(System.out::println);
 
          */
+        // Product
         /*
         // product
         List<Product> products = new ArrayList<>();
@@ -67,6 +69,7 @@ public class Main {
                 .forEach(System.out::println);
 
          */
+        // Rectangle
         /*
         // Rectangle
         Rectangle rectangle = new Rectangle(5,5);
@@ -78,10 +81,52 @@ public class Main {
         System.out.println("Is square: " + isSquare);
 
          */
-
+        // Employee
+        /*
+        // Employee
         Employee employee = new Employee(1,"Izzatbek",500000,"Software Engineer");
         String increatedSalary = employee.increaseSalary(25);
         System.out.println(increatedSalary);
         System.out.println(employee.toString());
+
+         */
+        // Counter
+        /*
+        Counter counter = new Counter(4);
+        System.out.println(counter.getValue());
+        System.out.println(counter.decrement());
+        System.out.println(counter.increment());
+        counter.reset();
+        System.out.println(counter.increment());
+        System.out.println(counter.getValue());
+
+         */
+        // Book
+       /* Book book = new Book("Deep Work","Newport","qwr34",340);
+        System.out.print(book.about());
+
+        */
+        /*
+        // Car
+        Car car = new Car("Chevrolet","Malibu",2026,6);
+        car.drive(3);
+        car.start();
+        car.drive(3);
+        car.refuel(45000);
+        car.stop();
+        car.drive(4);
+         */
+
+        /*
+        // Temperature
+        Temperature temperature = new Temperature(20);
+        temperature.decrease();
+        temperature.increase();
+        System.out.println("Celsius: " + temperature.getTemp());
+        double toFahrenheit = temperature.toFahrenheit(34.5);
+        System.out.println("Fahrenheit: " + toFahrenheit);
+        double toKelvin = temperature.toKelvin(10);
+        System.out.println("Kelvin: " + toKelvin);
+         */
     }
 }
